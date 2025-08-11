@@ -1,9 +1,3 @@
-Ótimo\! Um `README.md` é essencial para qualquer projeto no GitHub. Ele fornece uma visão geral do seu código, como usá-lo e o que ele faz.
-
-Aqui está um `README.md` que você pode usar para o seu script `mongoimport.py`:
-
------
-
 # 📦 mongoimport.py
 
 Um script Python flexível para importar dados de arquivos flatfile delimitados (como CSV ou arquivos Pipe-Delimited) para o MongoDB. Ele lida com campos de texto livre que podem conter quebras de linha, garantindo que cada registro seja importado como um único documento no MongoDB.
